@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+}
+.pd-20 {
+  padding: 20px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.nav-buttons {
+  margin-bottom: 20px;
+}
+.nav-btn {
+  margin-right: 20px;
+}
+.nav-btn:nth-last-child {
+  margin-right: 0;
+}
